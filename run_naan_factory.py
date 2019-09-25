@@ -41,5 +41,5 @@ print('Testing wood_oven, with dough --> naan bread to come out')
 print(wood_oven('dough') == 'naan bread')
 
 #One more test for the oven - working and on github
-#print('Testing wood_oven, if it works --> naan bread hot and fresh')
-#print(wood_oven('naan bread') == 'hot')
+print('Testing wood_oven, if it works --> naan bread hot and fresh')
+print(wood_oven('naan bread') == 'hot')
